@@ -8,3 +8,4 @@ moviepy
 librosa
 scikit-learn
 joblib
+gunicorn
